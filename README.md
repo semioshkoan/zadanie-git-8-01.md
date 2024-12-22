@@ -25,6 +25,16 @@
 
 ### Решение 1
 
+![image](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/zadanie1/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_115.png)
+
+![image](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/zadanie1/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_116.png)
+
+![image](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/zadanie1/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_117.png)
+
+![image](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/zadanie1/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_118.png)
+
+![image](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/zadanie1/%D0%92%D1%8B%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_119.png)
+
 ![Ссылка решение 1](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/README.md)
 
 ---

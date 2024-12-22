@@ -25,7 +25,7 @@
 
 ### Решение 1
 
-![скрин для Git](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/README.md)
+![Ссылка решение 1](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/README.md)
 
 ---
 
@@ -44,7 +44,7 @@
 
 ### Решение 2
 
-![скрин для Git](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/.gitignore)
+![Ссылка решение 2](https://github.com/semioshkoan/zadanie-git-8-01.md/blob/main/.gitignore)
 
 ---
 
@@ -71,6 +71,6 @@
 
 ### Решение 3
 
-![скрин для Git](https://github.com/semioshkoan/zadanie-git-8-01.md/network)
+![Ссылка решение 3](https://github.com/semioshkoan/zadanie-git-8-01.md/network)
 
 ---
